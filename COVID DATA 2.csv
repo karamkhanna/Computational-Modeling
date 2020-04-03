@@ -1,0 +1,898 @@
+Date,Day (Starting 1/22),Location,Cases
+1/22/2020,0,US,1
+1/23/2020,1,US,1
+1/24/2020,2,US,2
+1/25/2020,3,US,2
+1/26/2020,4,US,5
+1/27/2020,5,US,5
+1/28/2020,6,US,5
+1/29/2020,7,US,5
+1/30/2020,8,US,5
+1/31/2020,9,US,7
+2/1/2020,10,US,8
+2/2/2020,11,US,8
+2/3/2020,12,US,11
+2/4/2020,13,US,11
+2/5/2020,14,US,11
+2/6/2020,15,US,11
+2/7/2020,16,US,11
+2/8/2020,17,US,11
+2/9/2020,18,US,11
+2/10/2020,19,US,11
+2/11/2020,20,US,12
+2/12/2020,21,US,12
+2/13/2020,22,US,13
+2/14/2020,23,US,13
+2/15/2020,24,US,13
+2/16/2020,25,US,13
+2/17/2020,26,US,13
+2/18/2020,27,US,13
+2/19/2020,28,US,13
+2/20/2020,29,US,13
+2/21/2020,30,US,15
+2/22/2020,31,US,15
+2/23/2020,32,US,15
+2/24/2020,33,US,51
+2/25/2020,34,US,51
+2/26/2020,35,US,57
+2/27/2020,36,US,58
+2/28/2020,37,US,60
+2/29/2020,38,US,68
+3/1/2020,39,US,74
+3/2/2020,40,US,98
+3/3/2020,41,US,118
+3/4/2020,42,US,149
+3/5/2020,43,US,217
+3/6/2020,44,US,262
+3/7/2020,45,US,402
+3/8/2020,46,US,518
+3/9/2020,47,US,583
+3/10/2020,48,US,959
+3/11/2020,49,US,1281
+3/12/2020,50,US,1663
+3/13/2020,51,US,2179
+3/14/2020,52,US,2727
+3/15/2020,53,US,3499
+3/16/2020,54,US,4632
+3/17/2020,55,US,6421
+3/18/2020,56,US,7783
+3/19/2020,57,US,13677
+3/20/2020,58,US,19100
+3/21/2020,59,US,25489
+3/22/2020,60,US,33276
+3/23/2020,61,US,43847
+3/24/2020,62,US,53740
+3/25/2020,63,US,65778
+3/26/2020,64,US,83836
+3/27/2020,65,US,101657
+3/28/2020,66,US,121478
+3/29/2020,67,US,140886
+3/30/2020,68,US,161807
+1/22/2020,0,Italy,0
+1/23/2020,1,Italy,0
+1/24/2020,2,Italy,0
+1/25/2020,3,Italy,0
+1/26/2020,4,Italy,0
+1/27/2020,5,Italy,0
+1/28/2020,6,Italy,0
+1/29/2020,7,Italy,0
+1/30/2020,8,Italy,0
+1/31/2020,9,Italy,2
+2/1/2020,10,Italy,2
+2/2/2020,11,Italy,2
+2/3/2020,12,Italy,2
+2/4/2020,13,Italy,2
+2/5/2020,14,Italy,2
+2/6/2020,15,Italy,2
+2/7/2020,16,Italy,3
+2/8/2020,17,Italy,3
+2/9/2020,18,Italy,3
+2/10/2020,19,Italy,3
+2/11/2020,20,Italy,3
+2/12/2020,21,Italy,3
+2/13/2020,22,Italy,3
+2/14/2020,23,Italy,3
+2/15/2020,24,Italy,3
+2/16/2020,25,Italy,3
+2/17/2020,26,Italy,3
+2/18/2020,27,Italy,3
+2/19/2020,28,Italy,3
+2/20/2020,29,Italy,3
+2/21/2020,30,Italy,20
+2/22/2020,31,Italy,62
+2/23/2020,32,Italy,155
+2/24/2020,33,Italy,229
+2/25/2020,34,Italy,322
+2/26/2020,35,Italy,453
+2/27/2020,36,Italy,655
+2/28/2020,37,Italy,888
+2/29/2020,38,Italy,1128
+3/1/2020,39,Italy,1694
+3/2/2020,40,Italy,2036
+3/3/2020,41,Italy,2502
+3/4/2020,42,Italy,3089
+3/5/2020,43,Italy,3858
+3/6/2020,44,Italy,4636
+3/7/2020,45,Italy,5883
+3/8/2020,46,Italy,7375
+3/9/2020,47,Italy,9172
+3/10/2020,48,Italy,10149
+3/11/2020,49,Italy,12462
+3/12/2020,50,Italy,12462
+3/13/2020,51,Italy,17660
+3/14/2020,52,Italy,21157
+3/15/2020,53,Italy,24747
+3/16/2020,54,Italy,27980
+3/17/2020,55,Italy,31506
+3/18/2020,56,Italy,35713
+3/19/2020,57,Italy,41035
+3/20/2020,58,Italy,47021
+3/21/2020,59,Italy,53578
+3/22/2020,60,Italy,59138
+3/23/2020,61,Italy,63927
+3/24/2020,62,Italy,69176
+3/25/2020,63,Italy,74386
+3/26/2020,64,Italy,80589
+3/27/2020,65,Italy,86498
+3/28/2020,66,Italy,92472
+3/29/2020,67,Italy,97689
+3/30/2020,68,Italy,101739
+1/22/2020,0,Spain,0
+1/23/2020,1,Spain,0
+1/24/2020,2,Spain,0
+1/25/2020,3,Spain,0
+1/26/2020,4,Spain,0
+1/27/2020,5,Spain,0
+1/28/2020,6,Spain,0
+1/29/2020,7,Spain,0
+1/30/2020,8,Spain,0
+1/31/2020,9,Spain,0
+2/1/2020,10,Spain,1
+2/2/2020,11,Spain,1
+2/3/2020,12,Spain,1
+2/4/2020,13,Spain,1
+2/5/2020,14,Spain,1
+2/6/2020,15,Spain,1
+2/7/2020,16,Spain,1
+2/8/2020,17,Spain,1
+2/9/2020,18,Spain,2
+2/10/2020,19,Spain,2
+2/11/2020,20,Spain,2
+2/12/2020,21,Spain,2
+2/13/2020,22,Spain,2
+2/14/2020,23,Spain,2
+2/15/2020,24,Spain,2
+2/16/2020,25,Spain,2
+2/17/2020,26,Spain,2
+2/18/2020,27,Spain,2
+2/19/2020,28,Spain,2
+2/20/2020,29,Spain,2
+2/21/2020,30,Spain,2
+2/22/2020,31,Spain,2
+2/23/2020,32,Spain,2
+2/24/2020,33,Spain,2
+2/25/2020,34,Spain,6
+2/26/2020,35,Spain,13
+2/27/2020,36,Spain,15
+2/28/2020,37,Spain,32
+2/29/2020,38,Spain,45
+3/1/2020,39,Spain,84
+3/2/2020,40,Spain,120
+3/3/2020,41,Spain,165
+3/4/2020,42,Spain,222
+3/5/2020,43,Spain,259
+3/6/2020,44,Spain,400
+3/7/2020,45,Spain,500
+3/8/2020,46,Spain,673
+3/9/2020,47,Spain,1073
+3/10/2020,48,Spain,1695
+3/11/2020,49,Spain,2277
+3/12/2020,50,Spain,2277
+3/13/2020,51,Spain,5232
+3/14/2020,52,Spain,6391
+3/15/2020,53,Spain,7798
+3/16/2020,54,Spain,9942
+3/17/2020,55,Spain,11748
+3/18/2020,56,Spain,13910
+3/19/2020,57,Spain,17963
+3/20/2020,58,Spain,20410
+3/21/2020,59,Spain,25374
+3/22/2020,60,Spain,28768
+3/23/2020,61,Spain,35136
+3/24/2020,62,Spain,39885
+3/25/2020,63,Spain,49515
+3/26/2020,64,Spain,57786
+3/27/2020,65,Spain,65719
+3/28/2020,66,Spain,73235
+3/29/2020,67,Spain,80110
+3/30/2020,68,Spain,87956
+1/22/2020,0,"Hubei, China",444
+1/23/2020,1,"Hubei, China",444
+1/24/2020,2,"Hubei, China",549
+1/25/2020,3,"Hubei, China",761
+1/26/2020,4,"Hubei, China",1058
+1/27/2020,5,"Hubei, China",1423
+1/28/2020,6,"Hubei, China",3554
+1/29/2020,7,"Hubei, China",3554
+1/30/2020,8,"Hubei, China",4903
+1/31/2020,9,"Hubei, China",5806
+2/1/2020,10,"Hubei, China",7153
+2/2/2020,11,"Hubei, China",11177
+2/3/2020,12,"Hubei, China",13522
+2/4/2020,13,"Hubei, China",16678
+2/5/2020,14,"Hubei, China",19665
+2/6/2020,15,"Hubei, China",22112
+2/7/2020,16,"Hubei, China",24953
+2/8/2020,17,"Hubei, China",27100
+2/9/2020,18,"Hubei, China",29631
+2/10/2020,19,"Hubei, China",31728
+2/11/2020,20,"Hubei, China",33366
+2/12/2020,21,"Hubei, China",33366
+2/13/2020,22,"Hubei, China",48206
+2/14/2020,23,"Hubei, China",54406
+2/15/2020,24,"Hubei, China",56249
+2/16/2020,25,"Hubei, China",58182
+2/17/2020,26,"Hubei, China",59989
+2/18/2020,27,"Hubei, China",61682
+2/19/2020,28,"Hubei, China",62031
+2/20/2020,29,"Hubei, China",62442
+2/21/2020,30,"Hubei, China",62662
+2/22/2020,31,"Hubei, China",64084
+2/23/2020,32,"Hubei, China",64084
+2/24/2020,33,"Hubei, China",64287
+2/25/2020,34,"Hubei, China",64786
+2/26/2020,35,"Hubei, China",65187
+2/27/2020,36,"Hubei, China",65596
+2/28/2020,37,"Hubei, China",65914
+2/29/2020,38,"Hubei, China",66337
+3/1/2020,39,"Hubei, China",66907
+3/2/2020,40,"Hubei, China",67103
+3/3/2020,41,"Hubei, China",67217
+3/4/2020,42,"Hubei, China",67332
+3/5/2020,43,"Hubei, China",67466
+3/6/2020,44,"Hubei, China",67592
+3/7/2020,45,"Hubei, China",67666
+3/8/2020,46,"Hubei, China",67707
+3/9/2020,47,"Hubei, China",67743
+3/10/2020,48,"Hubei, China",67760
+3/11/2020,49,"Hubei, China",67773
+3/12/2020,50,"Hubei, China",67781
+3/13/2020,51,"Hubei, China",67786
+3/14/2020,52,"Hubei, China",67790
+3/15/2020,53,"Hubei, China",67794
+3/16/2020,54,"Hubei, China",67798
+3/17/2020,55,"Hubei, China",67799
+3/18/2020,56,"Hubei, China",67800
+3/19/2020,57,"Hubei, China",67800
+3/20/2020,58,"Hubei, China",67800
+3/21/2020,59,"Hubei, China",67800
+3/22/2020,60,"Hubei, China",67800
+3/23/2020,61,"Hubei, China",67800
+3/24/2020,62,"Hubei, China",67801
+3/25/2020,63,"Hubei, China",67801
+3/26/2020,64,"Hubei, China",67801
+3/27/2020,65,"Hubei, China",67801
+3/28/2020,66,"Hubei, China",67801
+3/29/2020,67,"Hubei, China",67801
+3/30/2020,68,"Hubei, China",67801
+1/22/2020,0,Germany,0
+1/23/2020,1,Germany,0
+1/24/2020,2,Germany,0
+1/25/2020,3,Germany,0
+1/26/2020,4,Germany,0
+1/27/2020,5,Germany,1
+1/28/2020,6,Germany,4
+1/29/2020,7,Germany,4
+1/30/2020,8,Germany,4
+1/31/2020,9,Germany,5
+2/1/2020,10,Germany,8
+2/2/2020,11,Germany,10
+2/3/2020,12,Germany,12
+2/4/2020,13,Germany,12
+2/5/2020,14,Germany,12
+2/6/2020,15,Germany,12
+2/7/2020,16,Germany,13
+2/8/2020,17,Germany,13
+2/9/2020,18,Germany,14
+2/10/2020,19,Germany,14
+2/11/2020,20,Germany,16
+2/12/2020,21,Germany,16
+2/13/2020,22,Germany,16
+2/14/2020,23,Germany,16
+2/15/2020,24,Germany,16
+2/16/2020,25,Germany,16
+2/17/2020,26,Germany,16
+2/18/2020,27,Germany,16
+2/19/2020,28,Germany,16
+2/20/2020,29,Germany,16
+2/21/2020,30,Germany,16
+2/22/2020,31,Germany,16
+2/23/2020,32,Germany,16
+2/24/2020,33,Germany,16
+2/25/2020,34,Germany,17
+2/26/2020,35,Germany,27
+2/27/2020,36,Germany,46
+2/28/2020,37,Germany,48
+2/29/2020,38,Germany,79
+3/1/2020,39,Germany,130
+3/2/2020,40,Germany,159
+3/3/2020,41,Germany,196
+3/4/2020,42,Germany,262
+3/5/2020,43,Germany,482
+3/6/2020,44,Germany,670
+3/7/2020,45,Germany,799
+3/8/2020,46,Germany,1040
+3/9/2020,47,Germany,1176
+3/10/2020,48,Germany,1457
+3/11/2020,49,Germany,1908
+3/12/2020,50,Germany,2078
+3/13/2020,51,Germany,3675
+3/14/2020,52,Germany,4585
+3/15/2020,53,Germany,5795
+3/16/2020,54,Germany,7272
+3/17/2020,55,Germany,9257
+3/18/2020,56,Germany,12327
+3/19/2020,57,Germany,15320
+3/20/2020,58,Germany,19848
+3/21/2020,59,Germany,22213
+3/22/2020,60,Germany,24873
+3/23/2020,61,Germany,29056
+3/24/2020,62,Germany,32986
+3/25/2020,63,Germany,37323
+3/26/2020,64,Germany,43938
+3/27/2020,65,Germany,50871
+3/28/2020,66,Germany,57695
+3/29/2020,67,Germany,62095
+3/30/2020,68,Germany,66885
+1/22/2020,0,France,0
+1/23/2020,1,France,0
+1/24/2020,2,France,2
+1/25/2020,3,France,3
+1/26/2020,4,France,3
+1/27/2020,5,France,3
+1/28/2020,6,France,4
+1/29/2020,7,France,5
+1/30/2020,8,France,5
+1/31/2020,9,France,5
+2/1/2020,10,France,6
+2/2/2020,11,France,6
+2/3/2020,12,France,6
+2/4/2020,13,France,6
+2/5/2020,14,France,6
+2/6/2020,15,France,6
+2/7/2020,16,France,6
+2/8/2020,17,France,11
+2/9/2020,18,France,11
+2/10/2020,19,France,11
+2/11/2020,20,France,11
+2/12/2020,21,France,11
+2/13/2020,22,France,11
+2/14/2020,23,France,11
+2/15/2020,24,France,12
+2/16/2020,25,France,12
+2/17/2020,26,France,12
+2/18/2020,27,France,12
+2/19/2020,28,France,12
+2/20/2020,29,France,12
+2/21/2020,30,France,12
+2/22/2020,31,France,12
+2/23/2020,32,France,12
+2/24/2020,33,France,12
+2/25/2020,34,France,14
+2/26/2020,35,France,18
+2/27/2020,36,France,38
+2/28/2020,37,France,57
+2/29/2020,38,France,100
+3/1/2020,39,France,130
+3/2/2020,40,France,191
+3/3/2020,41,France,204
+3/4/2020,42,France,285
+3/5/2020,43,France,377
+3/6/2020,44,France,653
+3/7/2020,45,France,949
+3/8/2020,46,France,1126
+3/9/2020,47,France,1209
+3/10/2020,48,France,1784
+3/11/2020,49,France,2281
+3/12/2020,50,France,2281
+3/13/2020,51,France,3661
+3/14/2020,52,France,4469
+3/15/2020,53,France,4499
+3/16/2020,54,France,6633
+3/17/2020,55,France,7652
+3/18/2020,56,France,9043
+3/19/2020,57,France,10871
+3/20/2020,58,France,12612
+3/21/2020,59,France,14282
+3/22/2020,60,France,16018
+3/23/2020,61,France,19856
+3/24/2020,62,France,22304
+3/25/2020,63,France,25233
+3/26/2020,64,France,29155
+3/27/2020,65,France,32964
+3/28/2020,66,France,37575
+3/29/2020,67,France,40174
+3/30/2020,68,France,44550
+1/22/2020,0,Iran,0
+1/23/2020,1,Iran,0
+1/24/2020,2,Iran,0
+1/25/2020,3,Iran,0
+1/26/2020,4,Iran,0
+1/27/2020,5,Iran,0
+1/28/2020,6,Iran,0
+1/29/2020,7,Iran,0
+1/30/2020,8,Iran,0
+1/31/2020,9,Iran,0
+2/1/2020,10,Iran,0
+2/2/2020,11,Iran,0
+2/3/2020,12,Iran,0
+2/4/2020,13,Iran,0
+2/5/2020,14,Iran,0
+2/6/2020,15,Iran,0
+2/7/2020,16,Iran,0
+2/8/2020,17,Iran,0
+2/9/2020,18,Iran,0
+2/10/2020,19,Iran,0
+2/11/2020,20,Iran,0
+2/12/2020,21,Iran,0
+2/13/2020,22,Iran,0
+2/14/2020,23,Iran,0
+2/15/2020,24,Iran,0
+2/16/2020,25,Iran,0
+2/17/2020,26,Iran,0
+2/18/2020,27,Iran,0
+2/19/2020,28,Iran,2
+2/20/2020,29,Iran,5
+2/21/2020,30,Iran,18
+2/22/2020,31,Iran,28
+2/23/2020,32,Iran,43
+2/24/2020,33,Iran,61
+2/25/2020,34,Iran,95
+2/26/2020,35,Iran,139
+2/27/2020,36,Iran,245
+2/28/2020,37,Iran,388
+2/29/2020,38,Iran,593
+3/1/2020,39,Iran,978
+3/2/2020,40,Iran,1501
+3/3/2020,41,Iran,2336
+3/4/2020,42,Iran,2922
+3/5/2020,43,Iran,3513
+3/6/2020,44,Iran,4747
+3/7/2020,45,Iran,5823
+3/8/2020,46,Iran,6566
+3/9/2020,47,Iran,7161
+3/10/2020,48,Iran,8042
+3/11/2020,49,Iran,9000
+3/12/2020,50,Iran,10075
+3/13/2020,51,Iran,11364
+3/14/2020,52,Iran,12729
+3/15/2020,53,Iran,13938
+3/16/2020,54,Iran,14991
+3/17/2020,55,Iran,16169
+3/18/2020,56,Iran,17361
+3/19/2020,57,Iran,18407
+3/20/2020,58,Iran,19644
+3/21/2020,59,Iran,20610
+3/22/2020,60,Iran,21638
+3/23/2020,61,Iran,23049
+3/24/2020,62,Iran,24811
+3/25/2020,63,Iran,27017
+3/26/2020,64,Iran,29406
+3/27/2020,65,Iran,32332
+3/28/2020,66,Iran,35408
+3/29/2020,67,Iran,38309
+3/30/2020,68,Iran,41495
+1/22/2020,0,United Kingdom,0
+1/23/2020,1,United Kingdom,0
+1/24/2020,2,United Kingdom,0
+1/25/2020,3,United Kingdom,0
+1/26/2020,4,United Kingdom,0
+1/27/2020,5,United Kingdom,0
+1/28/2020,6,United Kingdom,0
+1/29/2020,7,United Kingdom,0
+1/30/2020,8,United Kingdom,0
+1/31/2020,9,United Kingdom,2
+2/1/2020,10,United Kingdom,2
+2/2/2020,11,United Kingdom,2
+2/3/2020,12,United Kingdom,2
+2/4/2020,13,United Kingdom,2
+2/5/2020,14,United Kingdom,2
+2/6/2020,15,United Kingdom,2
+2/7/2020,16,United Kingdom,3
+2/8/2020,17,United Kingdom,3
+2/9/2020,18,United Kingdom,3
+2/10/2020,19,United Kingdom,8
+2/11/2020,20,United Kingdom,8
+2/12/2020,21,United Kingdom,9
+2/13/2020,22,United Kingdom,9
+2/14/2020,23,United Kingdom,9
+2/15/2020,24,United Kingdom,9
+2/16/2020,25,United Kingdom,9
+2/17/2020,26,United Kingdom,9
+2/18/2020,27,United Kingdom,9
+2/19/2020,28,United Kingdom,9
+2/20/2020,29,United Kingdom,9
+2/21/2020,30,United Kingdom,9
+2/22/2020,31,United Kingdom,9
+2/23/2020,32,United Kingdom,9
+2/24/2020,33,United Kingdom,13
+2/25/2020,34,United Kingdom,13
+2/26/2020,35,United Kingdom,13
+2/27/2020,36,United Kingdom,15
+2/28/2020,37,United Kingdom,20
+2/29/2020,38,United Kingdom,23
+3/1/2020,39,United Kingdom,36
+3/2/2020,40,United Kingdom,40
+3/3/2020,41,United Kingdom,51
+3/4/2020,42,United Kingdom,85
+3/5/2020,43,United Kingdom,115
+3/6/2020,44,United Kingdom,163
+3/7/2020,45,United Kingdom,206
+3/8/2020,46,United Kingdom,273
+3/9/2020,47,United Kingdom,321
+3/10/2020,48,United Kingdom,382
+3/11/2020,49,United Kingdom,456
+3/12/2020,50,United Kingdom,456
+3/13/2020,51,United Kingdom,798
+3/14/2020,52,United Kingdom,1140
+3/15/2020,53,United Kingdom,1140
+3/16/2020,54,United Kingdom,1543
+3/17/2020,55,United Kingdom,1950
+3/18/2020,56,United Kingdom,2626
+3/19/2020,57,United Kingdom,2689
+3/20/2020,58,United Kingdom,3983
+3/21/2020,59,United Kingdom,5018
+3/22/2020,60,United Kingdom,5683
+3/23/2020,61,United Kingdom,6650
+3/24/2020,62,United Kingdom,8077
+3/25/2020,63,United Kingdom,9529
+3/26/2020,64,United Kingdom,11658
+3/27/2020,65,United Kingdom,14543
+3/28/2020,66,United Kingdom,17089
+3/29/2020,67,United Kingdom,19522
+3/30/2020,68,United Kingdom,22141
+1/22/2020,0,Switzerland,0
+1/23/2020,1,Switzerland,0
+1/24/2020,2,Switzerland,0
+1/25/2020,3,Switzerland,0
+1/26/2020,4,Switzerland,0
+1/27/2020,5,Switzerland,0
+1/28/2020,6,Switzerland,0
+1/29/2020,7,Switzerland,0
+1/30/2020,8,Switzerland,0
+1/31/2020,9,Switzerland,0
+2/1/2020,10,Switzerland,0
+2/2/2020,11,Switzerland,0
+2/3/2020,12,Switzerland,0
+2/4/2020,13,Switzerland,0
+2/5/2020,14,Switzerland,0
+2/6/2020,15,Switzerland,0
+2/7/2020,16,Switzerland,0
+2/8/2020,17,Switzerland,0
+2/9/2020,18,Switzerland,0
+2/10/2020,19,Switzerland,0
+2/11/2020,20,Switzerland,0
+2/12/2020,21,Switzerland,0
+2/13/2020,22,Switzerland,0
+2/14/2020,23,Switzerland,0
+2/15/2020,24,Switzerland,0
+2/16/2020,25,Switzerland,0
+2/17/2020,26,Switzerland,0
+2/18/2020,27,Switzerland,0
+2/19/2020,28,Switzerland,0
+2/20/2020,29,Switzerland,0
+2/21/2020,30,Switzerland,0
+2/22/2020,31,Switzerland,0
+2/23/2020,32,Switzerland,0
+2/24/2020,33,Switzerland,0
+2/25/2020,34,Switzerland,1
+2/26/2020,35,Switzerland,1
+2/27/2020,36,Switzerland,8
+2/28/2020,37,Switzerland,8
+2/29/2020,38,Switzerland,18
+3/1/2020,39,Switzerland,27
+3/2/2020,40,Switzerland,42
+3/3/2020,41,Switzerland,56
+3/4/2020,42,Switzerland,90
+3/5/2020,43,Switzerland,114
+3/6/2020,44,Switzerland,214
+3/7/2020,45,Switzerland,268
+3/8/2020,46,Switzerland,337
+3/9/2020,47,Switzerland,374
+3/10/2020,48,Switzerland,491
+3/11/2020,49,Switzerland,652
+3/12/2020,50,Switzerland,652
+3/13/2020,51,Switzerland,1139
+3/14/2020,52,Switzerland,1359
+3/15/2020,53,Switzerland,2200
+3/16/2020,54,Switzerland,2200
+3/17/2020,55,Switzerland,2700
+3/18/2020,56,Switzerland,3028
+3/19/2020,57,Switzerland,4075
+3/20/2020,58,Switzerland,5294
+3/21/2020,59,Switzerland,6575
+3/22/2020,60,Switzerland,7474
+3/23/2020,61,Switzerland,8795
+3/24/2020,62,Switzerland,9877
+3/25/2020,63,Switzerland,10897
+3/26/2020,64,Switzerland,11811
+3/27/2020,65,Switzerland,12928
+3/28/2020,66,Switzerland,14076
+3/29/2020,67,Switzerland,14829
+3/30/2020,68,Switzerland,15922
+1/22/2020,0,Belgium,0
+1/23/2020,1,Belgium,0
+1/24/2020,2,Belgium,0
+1/25/2020,3,Belgium,0
+1/26/2020,4,Belgium,0
+1/27/2020,5,Belgium,0
+1/28/2020,6,Belgium,0
+1/29/2020,7,Belgium,0
+1/30/2020,8,Belgium,0
+1/31/2020,9,Belgium,0
+2/1/2020,10,Belgium,0
+2/2/2020,11,Belgium,0
+2/3/2020,12,Belgium,0
+2/4/2020,13,Belgium,1
+2/5/2020,14,Belgium,1
+2/6/2020,15,Belgium,1
+2/7/2020,16,Belgium,1
+2/8/2020,17,Belgium,1
+2/9/2020,18,Belgium,1
+2/10/2020,19,Belgium,1
+2/11/2020,20,Belgium,1
+2/12/2020,21,Belgium,1
+2/13/2020,22,Belgium,1
+2/14/2020,23,Belgium,1
+2/15/2020,24,Belgium,1
+2/16/2020,25,Belgium,1
+2/17/2020,26,Belgium,1
+2/18/2020,27,Belgium,1
+2/19/2020,28,Belgium,1
+2/20/2020,29,Belgium,1
+2/21/2020,30,Belgium,1
+2/22/2020,31,Belgium,1
+2/23/2020,32,Belgium,1
+2/24/2020,33,Belgium,1
+2/25/2020,34,Belgium,1
+2/26/2020,35,Belgium,1
+2/27/2020,36,Belgium,1
+2/28/2020,37,Belgium,1
+2/29/2020,38,Belgium,1
+3/1/2020,39,Belgium,2
+3/2/2020,40,Belgium,8
+3/3/2020,41,Belgium,13
+3/4/2020,42,Belgium,23
+3/5/2020,43,Belgium,50
+3/6/2020,44,Belgium,109
+3/7/2020,45,Belgium,169
+3/8/2020,46,Belgium,200
+3/9/2020,47,Belgium,239
+3/10/2020,48,Belgium,267
+3/11/2020,49,Belgium,314
+3/12/2020,50,Belgium,314
+3/13/2020,51,Belgium,559
+3/14/2020,52,Belgium,689
+3/15/2020,53,Belgium,886
+3/16/2020,54,Belgium,1058
+3/17/2020,55,Belgium,1243
+3/18/2020,56,Belgium,1486
+3/19/2020,57,Belgium,1795
+3/20/2020,58,Belgium,2257
+3/21/2020,59,Belgium,2815
+3/22/2020,60,Belgium,3401
+3/23/2020,61,Belgium,3743
+3/24/2020,62,Belgium,4269
+3/25/2020,63,Belgium,4937
+3/26/2020,64,Belgium,6235
+3/27/2020,65,Belgium,7284
+3/28/2020,66,Belgium,9134
+3/29/2020,67,Belgium,10836
+3/30/2020,68,Belgium,11899
+1/22/2020,0,Netherlands,0
+1/23/2020,1,Netherlands,0
+1/24/2020,2,Netherlands,0
+1/25/2020,3,Netherlands,0
+1/26/2020,4,Netherlands,0
+1/27/2020,5,Netherlands,0
+1/28/2020,6,Netherlands,0
+1/29/2020,7,Netherlands,0
+1/30/2020,8,Netherlands,0
+1/31/2020,9,Netherlands,0
+2/1/2020,10,Netherlands,0
+2/2/2020,11,Netherlands,0
+2/3/2020,12,Netherlands,0
+2/4/2020,13,Netherlands,0
+2/5/2020,14,Netherlands,0
+2/6/2020,15,Netherlands,0
+2/7/2020,16,Netherlands,0
+2/8/2020,17,Netherlands,0
+2/9/2020,18,Netherlands,0
+2/10/2020,19,Netherlands,0
+2/11/2020,20,Netherlands,0
+2/12/2020,21,Netherlands,0
+2/13/2020,22,Netherlands,0
+2/14/2020,23,Netherlands,0
+2/15/2020,24,Netherlands,0
+2/16/2020,25,Netherlands,0
+2/17/2020,26,Netherlands,0
+2/18/2020,27,Netherlands,0
+2/19/2020,28,Netherlands,0
+2/20/2020,29,Netherlands,0
+2/21/2020,30,Netherlands,0
+2/22/2020,31,Netherlands,0
+2/23/2020,32,Netherlands,0
+2/24/2020,33,Netherlands,0
+2/25/2020,34,Netherlands,0
+2/26/2020,35,Netherlands,0
+2/27/2020,36,Netherlands,1
+2/28/2020,37,Netherlands,1
+2/29/2020,38,Netherlands,6
+3/1/2020,39,Netherlands,10
+3/2/2020,40,Netherlands,18
+3/3/2020,41,Netherlands,24
+3/4/2020,42,Netherlands,38
+3/5/2020,43,Netherlands,82
+3/6/2020,44,Netherlands,128
+3/7/2020,45,Netherlands,188
+3/8/2020,46,Netherlands,265
+3/9/2020,47,Netherlands,321
+3/10/2020,48,Netherlands,382
+3/11/2020,49,Netherlands,503
+3/12/2020,50,Netherlands,503
+3/13/2020,51,Netherlands,804
+3/14/2020,52,Netherlands,959
+3/15/2020,53,Netherlands,1135
+3/16/2020,54,Netherlands,1413
+3/17/2020,55,Netherlands,1705
+3/18/2020,56,Netherlands,2051
+3/19/2020,57,Netherlands,2460
+3/20/2020,58,Netherlands,2994
+3/21/2020,59,Netherlands,3631
+3/22/2020,60,Netherlands,4204
+3/23/2020,61,Netherlands,4749
+3/24/2020,62,Netherlands,5560
+3/25/2020,63,Netherlands,6412
+3/26/2020,64,Netherlands,7431
+3/27/2020,65,Netherlands,8603
+3/28/2020,66,Netherlands,9762
+3/29/2020,67,Netherlands,10866
+3/30/2020,68,Netherlands,11750
+1/22/2020,0,Turkey,0
+1/23/2020,1,Turkey,0
+1/24/2020,2,Turkey,0
+1/25/2020,3,Turkey,0
+1/26/2020,4,Turkey,0
+1/27/2020,5,Turkey,0
+1/28/2020,6,Turkey,0
+1/29/2020,7,Turkey,0
+1/30/2020,8,Turkey,0
+1/31/2020,9,Turkey,0
+2/1/2020,10,Turkey,0
+2/2/2020,11,Turkey,0
+2/3/2020,12,Turkey,0
+2/4/2020,13,Turkey,0
+2/5/2020,14,Turkey,0
+2/6/2020,15,Turkey,0
+2/7/2020,16,Turkey,0
+2/8/2020,17,Turkey,0
+2/9/2020,18,Turkey,0
+2/10/2020,19,Turkey,0
+2/11/2020,20,Turkey,0
+2/12/2020,21,Turkey,0
+2/13/2020,22,Turkey,0
+2/14/2020,23,Turkey,0
+2/15/2020,24,Turkey,0
+2/16/2020,25,Turkey,0
+2/17/2020,26,Turkey,0
+2/18/2020,27,Turkey,0
+2/19/2020,28,Turkey,0
+2/20/2020,29,Turkey,0
+2/21/2020,30,Turkey,0
+2/22/2020,31,Turkey,0
+2/23/2020,32,Turkey,0
+2/24/2020,33,Turkey,0
+2/25/2020,34,Turkey,0
+2/26/2020,35,Turkey,0
+2/27/2020,36,Turkey,0
+2/28/2020,37,Turkey,0
+2/29/2020,38,Turkey,0
+3/1/2020,39,Turkey,0
+3/2/2020,40,Turkey,0
+3/3/2020,41,Turkey,0
+3/4/2020,42,Turkey,0
+3/5/2020,43,Turkey,0
+3/6/2020,44,Turkey,0
+3/7/2020,45,Turkey,0
+3/8/2020,46,Turkey,0
+3/9/2020,47,Turkey,0
+3/10/2020,48,Turkey,0
+3/11/2020,49,Turkey,1
+3/12/2020,50,Turkey,1
+3/13/2020,51,Turkey,5
+3/14/2020,52,Turkey,5
+3/15/2020,53,Turkey,6
+3/16/2020,54,Turkey,18
+3/17/2020,55,Turkey,47
+3/18/2020,56,Turkey,98
+3/19/2020,57,Turkey,192
+3/20/2020,58,Turkey,359
+3/21/2020,59,Turkey,670
+3/22/2020,60,Turkey,1236
+3/23/2020,61,Turkey,1529
+3/24/2020,62,Turkey,1872
+3/25/2020,63,Turkey,2433
+3/26/2020,64,Turkey,3629
+3/27/2020,65,Turkey,5698
+3/28/2020,66,Turkey,7402
+3/29/2020,67,Turkey,9217
+3/30/2020,68,Turkey,10827
+1/22/2020,0,South Korea,1
+1/23/2020,1,South Korea,1
+1/24/2020,2,South Korea,2
+1/25/2020,3,South Korea,2
+1/26/2020,4,South Korea,3
+1/27/2020,5,South Korea,4
+1/28/2020,6,South Korea,4
+1/29/2020,7,South Korea,4
+1/30/2020,8,South Korea,4
+1/31/2020,9,South Korea,11
+2/1/2020,10,South Korea,12
+2/2/2020,11,South Korea,15
+2/3/2020,12,South Korea,15
+2/4/2020,13,South Korea,16
+2/5/2020,14,South Korea,19
+2/6/2020,15,South Korea,23
+2/7/2020,16,South Korea,24
+2/8/2020,17,South Korea,24
+2/9/2020,18,South Korea,25
+2/10/2020,19,South Korea,27
+2/11/2020,20,South Korea,28
+2/12/2020,21,South Korea,28
+2/13/2020,22,South Korea,28
+2/14/2020,23,South Korea,28
+2/15/2020,24,South Korea,28
+2/16/2020,25,South Korea,29
+2/17/2020,26,South Korea,30
+2/18/2020,27,South Korea,31
+2/19/2020,28,South Korea,31
+2/20/2020,29,South Korea,104
+2/21/2020,30,South Korea,204
+2/22/2020,31,South Korea,433
+2/23/2020,32,South Korea,602
+2/24/2020,33,South Korea,833
+2/25/2020,34,South Korea,977
+2/26/2020,35,South Korea,1261
+2/27/2020,36,South Korea,1766
+2/28/2020,37,South Korea,2337
+2/29/2020,38,South Korea,3150
+3/1/2020,39,South Korea,3736
+3/2/2020,40,South Korea,4335
+3/3/2020,41,South Korea,5186
+3/4/2020,42,South Korea,5621
+3/5/2020,43,South Korea,6088
+3/6/2020,44,South Korea,6593
+3/7/2020,45,South Korea,7041
+3/8/2020,46,South Korea,7314
+3/9/2020,47,South Korea,7478
+3/10/2020,48,South Korea,7513
+3/11/2020,49,South Korea,7755
+3/12/2020,50,South Korea,7869
+3/13/2020,51,South Korea,7979
+3/14/2020,52,South Korea,8086
+3/15/2020,53,South Korea,8162
+3/16/2020,54,South Korea,8236
+3/17/2020,55,South Korea,8320
+3/18/2020,56,South Korea,8413
+3/19/2020,57,South Korea,8565
+3/20/2020,58,South Korea,8652
+3/21/2020,59,South Korea,8799
+3/22/2020,60,South Korea,8961
+3/23/2020,61,South Korea,8961
+3/24/2020,62,South Korea,9037
+3/25/2020,63,South Korea,9137
+3/26/2020,64,South Korea,9241
+3/27/2020,65,South Korea,9332
+3/28/2020,66,South Korea,9478
+3/29/2020,67,South Korea,9583
+3/30/2020,68,South Korea,9661
